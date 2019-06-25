@@ -1,0 +1,16 @@
+.title{
+    width:100%;
+    background-color:#000;
+    position: absolute;
+    top:50%;
+    transform:translate(0,-50%);
+}
+.title h1{
+    text-align: center;
+    color:#fff;
+    font-size: 3rem;
+}
+.title p{
+    margin-top:20px;
+}
+

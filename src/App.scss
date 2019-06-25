@@ -2,11 +2,21 @@ $primaryColor:#f00;
 $textColor:#fff;
 
 .wrapper{
-    width:80%;
+    width:50vw;
+    height:calc(100vh - 50px);
     margin:0 auto;
+    background-color:rgba(0,0,0,.2);
+    position: relative;
 }
-h1{
-    text-align: center;
-    color:#fff;
-    font-size: 3rem;
+div{
+    color:$textColor;
+}
+.textbox{
+    width:100%;
+    color:$textColor;
+    position: absolute;
+    top:50%;
+    transform:translate(0,-50%);
+    background-color:#000;
+    padding:10px;
 }

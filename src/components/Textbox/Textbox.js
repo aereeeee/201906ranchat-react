@@ -1,10 +1,15 @@
 import React from 'react';
 import './Textbox.scss'
 
-const Textbox = () => {
+const Textbox = ({
+    content,
+}) => {
+
     return (
-        <div>
-            
+        <div className='wrapper'>
+            <div className='textbox'>
+                {content}
+            </div>
         </div>
     );
 };
