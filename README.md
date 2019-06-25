@@ -22,11 +22,11 @@ npm run start
 
 ## Author
 
-👤 **조애리**
+**조애리**
 
 * Github: [@aereeeee](https://github.com/aereeeee)
 
 
-## 📝 License
+## License
 
 Copyright © 2019 [SBS data journalism](https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000114).
