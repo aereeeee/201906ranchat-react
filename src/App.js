@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.scss'
 import { hot } from 'react-hot-loader'
 import { Navigation, Intro, Background, Footer} from './components'
+import { observer } from './utils'
 
 
 const contents = [
@@ -35,6 +36,16 @@ class App extends Component {
   state = {
     contents:contents,
   }
+
+  componentDidMount(){
+    const boxes= document.querySelectorAll('div.textbox');
+
+    boxes.forEach((wrap)=>{
+      observer.observe(wrap)
+    })
+    
+  }
+
   render() {
     const { contents } =  this.state;
     return (
@@ -48,7 +59,7 @@ class App extends Component {
           className='wrapper'
           // style={}
           >
-              <div className='textbox'>
+              <div className='textbox' id={'box'+index}>
                 {content.text}
               </div>                   
           </div>

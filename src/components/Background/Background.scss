@@ -6,4 +6,10 @@
     left:0;
     background-color:#282828;
 }
+.backimg{
+    position: absolute;
+    width:100%;
+    top:50%;
+    transform:translate(0,-50%);
+}
 
