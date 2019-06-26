@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.scss'
-import classnames from 'classnames/bind'
+import { hot } from 'react-hot-loader'
 import { Navigation, Intro, Background, Footer} from './components'
 
 
@@ -59,4 +59,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default hot(module)(App);
