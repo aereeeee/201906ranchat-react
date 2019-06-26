@@ -8,9 +8,13 @@ const Background = () => {
     return (
         <div className='background'>
             <img src={image1} data='box0' alt="" className="backimg"/>
-            <img data-src={image1} data='box1' alt="" className="backimg"/>
-            <img data-src={image2} data='box2' alt="" className="backimg"/>
-            <img data-src={image3} data='box3' alt="" className="backimg"/>
+            <img src={image2} data='box1' alt="" className="backimg"/>
+            <img src={image3} data='box2' alt="" className="backimg"/>
+            <img src={image1} data='box3' alt="" className="backimg"/>
+            <img src={image2} data='box4' alt="" className="backimg"/>
+            <img src={image3} data='box5' alt="" className="backimg"/>
+            <img src={image1} data='box6' alt="" className="backimg"/>
+            <img src={image2} data='box7' alt="" className="backimg"/>
         </div>
     );
 };
