@@ -1,13 +1,13 @@
 import React from 'react';
 import './Background.scss';
-import image1 from '../../assets/img/img1.png'
-import image2 from '../../assets/img/img2.png'
-import image3 from '../../assets/img/img3.png'
-import image4 from '../../assets/img/img4.png'
-import image5 from '../../assets/img/img5.png'
-import image6 from '../../assets/img/img6.png'
-import image7 from '../../assets/img/img7.png'
-import image8 from '../../assets/img/img8.png'
+import image1 from '../../assets/img/1.png'
+import image2 from '../../assets/img/2.png'
+import image3 from '../../assets/img/3.png'
+import image4 from '../../assets/img/4.png'
+import image5 from '../../assets/img/5.png'
+import image6 from '../../assets/img/6.png'
+import image7 from '../../assets/img/6.png'
+import image8 from '../../assets/img/6.png'
 
 const Background = () => {
     return (

@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://aereeeee/github.io/201906ranchat-react",
+  "homepage": "https://aereeeee.github.io/201906ranchat-react",
   "babel": {
     "presets": [
       "react-app"
