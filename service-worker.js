@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/201906ranchat-react/precache-manifest.fd7306afa53a2f0d281861066b7c2b22.js"
+  "/201906ranchat-react/precache-manifest.0c12a3e8036cfae98495823cddb0fbcf.js"
 );
 
 self.addEventListener('message', (event) => {
