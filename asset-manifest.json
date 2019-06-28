@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/201906ranchat-react/static/css/main.30411054.chunk.css",
-    "main.js": "/201906ranchat-react/static/js/main.fbeada28.chunk.js",
-    "main.js.map": "/201906ranchat-react/static/js/main.fbeada28.chunk.js.map",
+    "main.css": "/201906ranchat-react/static/css/main.6d32ecc9.chunk.css",
+    "main.js": "/201906ranchat-react/static/js/main.273da674.chunk.js",
+    "main.js.map": "/201906ranchat-react/static/js/main.273da674.chunk.js.map",
     "runtime~main.js": "/201906ranchat-react/static/js/runtime~main.32d50a48.js",
     "runtime~main.js.map": "/201906ranchat-react/static/js/runtime~main.32d50a48.js.map",
-    "static/js/2.25248b7b.chunk.js": "/201906ranchat-react/static/js/2.25248b7b.chunk.js",
-    "static/js/2.25248b7b.chunk.js.map": "/201906ranchat-react/static/js/2.25248b7b.chunk.js.map",
+    "static/js/2.04076035.chunk.js": "/201906ranchat-react/static/js/2.04076035.chunk.js",
+    "static/js/2.04076035.chunk.js.map": "/201906ranchat-react/static/js/2.04076035.chunk.js.map",
     "index.html": "/201906ranchat-react/index.html",
-    "precache-manifest.0c12a3e8036cfae98495823cddb0fbcf.js": "/201906ranchat-react/precache-manifest.0c12a3e8036cfae98495823cddb0fbcf.js",
+    "precache-manifest.5b87b41661476cb2c5528db4a6efc85b.js": "/201906ranchat-react/precache-manifest.5b87b41661476cb2c5528db4a6efc85b.js",
     "service-worker.js": "/201906ranchat-react/service-worker.js",
-    "static/css/main.30411054.chunk.css.map": "/201906ranchat-react/static/css/main.30411054.chunk.css.map",
-    "static/media/1.png": "/201906ranchat-react/static/media/1.946294bf.png",
-    "static/media/2.png": "/201906ranchat-react/static/media/2.d1be94d4.png",
-    "static/media/3.png": "/201906ranchat-react/static/media/3.58249c8c.png",
-    "static/media/4.png": "/201906ranchat-react/static/media/4.0dea63a7.png",
-    "static/media/5.png": "/201906ranchat-react/static/media/5.dba21edd.png",
-    "static/media/6.png": "/201906ranchat-react/static/media/6.f5df9b1c.png"
+    "static/css/main.6d32ecc9.chunk.css.map": "/201906ranchat-react/static/css/main.6d32ecc9.chunk.css.map",
+    "static/media/a1.png": "/201906ranchat-react/static/media/a1.f8fe396e.png",
+    "static/media/a2.png": "/201906ranchat-react/static/media/a2.713c9ae4.png",
+    "static/media/a3.png": "/201906ranchat-react/static/media/a3.84c48d5f.png",
+    "static/media/a4.png": "/201906ranchat-react/static/media/a4.1de5b505.png",
+    "static/media/a5.png": "/201906ranchat-react/static/media/a5.6ef90ab5.png",
+    "static/media/a6.png": "/201906ranchat-react/static/media/a6.1ed7a787.png",
+    "static/media/a7.png": "/201906ranchat-react/static/media/a7.5517e08d.png",
+    "static/media/thum.png": "/201906ranchat-react/static/media/thum.183de1a5.png"
   }
 }
