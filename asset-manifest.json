@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/201906ranchat-react/static/css/main.6d32ecc9.chunk.css",
-    "main.js": "/201906ranchat-react/static/js/main.273da674.chunk.js",
-    "main.js.map": "/201906ranchat-react/static/js/main.273da674.chunk.js.map",
+    "main.js": "/201906ranchat-react/static/js/main.3d92a99e.chunk.js",
+    "main.js.map": "/201906ranchat-react/static/js/main.3d92a99e.chunk.js.map",
     "runtime~main.js": "/201906ranchat-react/static/js/runtime~main.32d50a48.js",
     "runtime~main.js.map": "/201906ranchat-react/static/js/runtime~main.32d50a48.js.map",
     "static/js/2.04076035.chunk.js": "/201906ranchat-react/static/js/2.04076035.chunk.js",
     "static/js/2.04076035.chunk.js.map": "/201906ranchat-react/static/js/2.04076035.chunk.js.map",
     "index.html": "/201906ranchat-react/index.html",
-    "precache-manifest.5b87b41661476cb2c5528db4a6efc85b.js": "/201906ranchat-react/precache-manifest.5b87b41661476cb2c5528db4a6efc85b.js",
+    "precache-manifest.e441d86b527ef6162c5a1a72dd4f196c.js": "/201906ranchat-react/precache-manifest.e441d86b527ef6162c5a1a72dd4f196c.js",
     "service-worker.js": "/201906ranchat-react/service-worker.js",
     "static/css/main.6d32ecc9.chunk.css.map": "/201906ranchat-react/static/css/main.6d32ecc9.chunk.css.map",
     "static/media/a1.png": "/201906ranchat-react/static/media/a1.f8fe396e.png",
@@ -18,6 +18,6 @@
     "static/media/a5.png": "/201906ranchat-react/static/media/a5.6ef90ab5.png",
     "static/media/a6.png": "/201906ranchat-react/static/media/a6.1ed7a787.png",
     "static/media/a7.png": "/201906ranchat-react/static/media/a7.5517e08d.png",
-    "static/media/thum.png": "/201906ranchat-react/static/media/thum.183de1a5.png"
+    "static/media/thum.png": "/201906ranchat-react/static/media/thum.970d449f.png"
   }
 }

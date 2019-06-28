@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c48360ed375670a94cc8433ef3fa3a95",
+    "revision": "9c2fe3f8603e74810453b055636154d0",
     "url": "/201906ranchat-react/index.html"
   },
   {
-    "revision": "41544e42014c0b18cf81",
+    "revision": "c875935bc9e88e15e920",
     "url": "/201906ranchat-react/static/css/main.6d32ecc9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/201906ranchat-react/static/js/2.04076035.chunk.js"
   },
   {
-    "revision": "41544e42014c0b18cf81",
-    "url": "/201906ranchat-react/static/js/main.273da674.chunk.js"
+    "revision": "c875935bc9e88e15e920",
+    "url": "/201906ranchat-react/static/js/main.3d92a99e.chunk.js"
   },
   {
     "revision": "f4493451e8da92682546",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/201906ranchat-react/static/media/a7.5517e08d.png"
   },
   {
-    "revision": "183de1a5cd4bede4c1c7b97be82d3080",
-    "url": "/201906ranchat-react/static/media/thum.183de1a5.png"
+    "revision": "970d449f6d95fe90fc63e5406585636e",
+    "url": "/201906ranchat-react/static/media/thum.970d449f.png"
   }
 ]);
