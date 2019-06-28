@@ -4,8 +4,9 @@ $textColor:#fff;
 .wrapper{
     width:30vw;
     height:calc(100vh - 50px);
-    margin:0 auto;
-    background-color:rgba(0,0,0,.2);
+    margin:0 0 0 5vw;
+    // margin:0 auto;
+    // background-color:rgba(0,0,0,.2);
     position: relative;
 }
 div{
@@ -19,5 +20,18 @@ div{
     transform:translate(0,-50%);
     background-color:rgba(0,0,0,0.3);
     padding:20px;
-    line-height:1.5rem;
+    line-height:1.7rem;
+    word-break: keep-all;
 }
+#box0{
+    background:none;
+}
+
+@media screen and (max-width: 700px) {
+    .wrapper{
+        width:100vw;
+        height:calc(100vh - 50px);
+        margin:0 auto;
+        position: relative;
+    }
+  }
