@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "538f9df958437621f52f01c4eaf84d7b",
+    "revision": "c2bb27a9df4e3c46541e62ea9a263ff1",
     "url": "/201906ranchat-react/index.html"
   },
   {
-    "revision": "21871c619b8d7ce518f9",
-    "url": "/201906ranchat-react/static/css/main.123d9b2a.chunk.css"
+    "revision": "eae1e90c5fe9f9a65a86",
+    "url": "/201906ranchat-react/static/css/main.06371af3.chunk.css"
   },
   {
     "revision": "0100b86819192c90c8ac",
     "url": "/201906ranchat-react/static/js/2.04b86f56.chunk.js"
   },
   {
-    "revision": "21871c619b8d7ce518f9",
+    "revision": "eae1e90c5fe9f9a65a86",
     "url": "/201906ranchat-react/static/js/main.588018ff.chunk.js"
   },
   {
