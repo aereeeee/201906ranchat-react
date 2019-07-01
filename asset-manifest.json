@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/201906ranchat-react/static/css/main.06371af3.chunk.css",
-    "main.js": "/201906ranchat-react/static/js/main.588018ff.chunk.js",
-    "main.js.map": "/201906ranchat-react/static/js/main.588018ff.chunk.js.map",
+    "main.css": "/201906ranchat-react/static/css/main.b3280ad6.chunk.css",
+    "main.js": "/201906ranchat-react/static/js/main.b2991a9e.chunk.js",
+    "main.js.map": "/201906ranchat-react/static/js/main.b2991a9e.chunk.js.map",
     "runtime~main.js": "/201906ranchat-react/static/js/runtime~main.32d50a48.js",
     "runtime~main.js.map": "/201906ranchat-react/static/js/runtime~main.32d50a48.js.map",
-    "static/js/2.04b86f56.chunk.js": "/201906ranchat-react/static/js/2.04b86f56.chunk.js",
-    "static/js/2.04b86f56.chunk.js.map": "/201906ranchat-react/static/js/2.04b86f56.chunk.js.map",
+    "static/js/2.93d895b9.chunk.js": "/201906ranchat-react/static/js/2.93d895b9.chunk.js",
+    "static/js/2.93d895b9.chunk.js.map": "/201906ranchat-react/static/js/2.93d895b9.chunk.js.map",
     "index.html": "/201906ranchat-react/index.html",
-    "precache-manifest.92fe1e1119b90415bc131b7f30af228c.js": "/201906ranchat-react/precache-manifest.92fe1e1119b90415bc131b7f30af228c.js",
+    "precache-manifest.1b4193a317d7bf6dc66fc00935897e7b.js": "/201906ranchat-react/precache-manifest.1b4193a317d7bf6dc66fc00935897e7b.js",
     "service-worker.js": "/201906ranchat-react/service-worker.js",
-    "static/css/main.06371af3.chunk.css.map": "/201906ranchat-react/static/css/main.06371af3.chunk.css.map",
+    "static/css/main.b3280ad6.chunk.css.map": "/201906ranchat-react/static/css/main.b3280ad6.chunk.css.map",
     "static/media/a1.png": "/201906ranchat-react/static/media/a1.2885f06d.png",
     "static/media/a2.png": "/201906ranchat-react/static/media/a2.713c9ae4.png",
     "static/media/a3.png": "/201906ranchat-react/static/media/a3.84c48d5f.png",
@@ -19,6 +19,6 @@
     "static/media/a6.png": "/201906ranchat-react/static/media/a6.1ed7a787.png",
     "static/media/a7.png": "/201906ranchat-react/static/media/a7.5517e08d.png",
     "static/media/a8.png": "/201906ranchat-react/static/media/a8.9548f9ef.png",
-    "static/media/thum3.png": "/201906ranchat-react/static/media/thum3.9eda7ada.png"
+    "static/media/thum6.png": "/201906ranchat-react/static/media/thum6.a7f3284a.png"
   }
 }
