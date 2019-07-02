@@ -1,37 +1,139 @@
-$primaryColor:#f00;
 $textColor:#fff;
 
+.loading{
+    width:100%;
+    height:100%;
+    z-index: 9999;
+    background-color: #000;
+}
 .wrapper{
-    width:30vw;
+    width:100%;
     height:calc(100vh - 50px);
-    margin:0 0 0 5vw;
-    // margin:0 auto;
-    // background-color:rgba(0,0,0,.2);
+    margin:0 auto;
     position: relative;
+}
+#wrap10{   
+    height:2500px;
+    .textbox{
+        position: absolute;
+        top:100px;
+        transform:translate(0,0);
+        padding-top:50px;
+    }
 }
 div{
     color:$textColor;
 }
 .textbox{
-    width:100%;
+    width:30vw;
+    margin-left:10vw;
     color:$textColor;
     position: absolute;
     top:50%;
     transform:translate(0,-50%);
-    background-color:rgba(0,0,0,0.3);
+    // background-color:rgba(0,0,0,0.3);
     padding:20px;
     line-height:1.7rem;
     word-break: keep-all;
+    span{
+        background:#fff;
+        color:#000;
+        font-weight: 700;
+        &.blue{
+            background:#0477BF;
+            color:#fff;
+        }
+        &.red{
+            background:#E30072;
+            color:#fff;
+        }
+    }
 }
 #box0{
     background:none;
+    width:100vw;
+    text-align:center;
+    margin-left:0;
+    line-height:50px;
+    top:30vh;
+    h5{
+        font-size:30px;
+    }
+    h1{
+        font-size:52px;
+        font-weight:700;
+    }
+}
+.chat{
+    margin-bottom:10px;
+    span{
+        display:block;
+        background-color:transparent;
+        color:#fff;
+        font-weight:700;
+    }
+}
+.chat p{
+    display:inline-block;
+    border:1px solid #fff;
+    border-radius:5px;
+    padding:10px;
+    &.special{
+        background:#fff;
+        color:#000;
+        font-weight: 700;
+    }
+}
+.righta{
+    text-align:left;
+    p{
+        margin-right:50px;
+    }
+
+}
+.leftb{ 
+    text-align:right;
 }
 
 @media screen and (max-width: 700px) {
-    .wrapper{
+    .textbox{
         width:100vw;
-        height:calc(100vh - 50px);
-        margin:0 auto;
-        position: relative;
+        margin-left:0;
+        color:$textColor;
+        position: absolute;
+        top:50%;
+        transform:translate(0,-50%);
+        background-color:rgba(0,0,0,0.3);
+        padding:20px;
+        line-height:1.7rem;
+        word-break: keep-all;
+    }
+    #box0{
+        background:none;
+        width:100vw;
+        text-align:center;
+        margin-left:0;
+        line-height:50px;
+        h5{
+            font-size:20px;
+        }
+        h1{
+            font-size:32px;
+            font-weight: 700;
+        }
+    }
+    #wrap10{   
+        .textbox{
+            background-color:rgba(0,0,0,0.5);
+        }
+    }
+    .chat{
+        margin-bottom:10px;
+        span{
+            display:block;
+            background-color:transparent;
+            color:#fff;
+            font-weight:700;
+        }
     }
   }

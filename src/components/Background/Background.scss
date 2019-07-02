@@ -4,56 +4,49 @@
     position:fixed;
     top:0;
     left:0;
-    background-color:#010B1A;
-}
-.backimg:first-child{
-    width:100%;
-    position: absolute;
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%);
-    z-index:999;
-    &.out{
-        opacity:0;
-        transition: opacity 0.2s;
-    }
-    &.this{
-        opacity:1;
-        transition:none;
-        // animation: flicker 6s infinite step-end; 
-    }
+    background-color:#010b1a;
 }
 
 .backimg{
     position: absolute;
     width:100%;
-    // right:0;
     top:50%;
+    opacity:0;
     transform:translate(15%,-50%);
-    // transform:translate(0,-50%);
     &.out{
         opacity:0;
         transition: opacity ease 1s;
     }
     &.this{
         opacity:1;
-        transition: opacity ease-out 1s;
+        transition: opacity ease 1s;
         // animation: flicker 6s infinite step-end; 
     }
-    
-}
-.backimg:last-child{
-    &.out{
-        opacity:0;
-        transition: opacity ease 1s;
+    &:first-child{
+        width:100%;
+        position:absolute;
+        left:0;
+        top:100%;
+        transform:translate(0,-100%);
+        &.out{
+            opacity:0;
+            transition: opacity 0.2s;
+        }
+        &.this{
+            opacity:1;
+            transition:none;
+            // animation: flicker 6s infinite step-end; 
+        }
     }
-    &.this{
-        opacity:1;
-        transition: opacity ease-out 1s;
-        animation: flicker 6s infinite step-end; 
-    }
+    &:last-child{
+        &.out{
+            opacity:0;
+            transition: opacity ease 0.1s;
+        }
     
+    }
 }
+
 @keyframes flicker {
     10%   { opacity: 1;   }
     13%    { opacity: 0.9; }
@@ -71,30 +64,14 @@
         left:50%;
         top:50%;
         transform:translate(-50%,-50%);
-        &.out{
-            opacity:0;
-            transition: opacity 1s;
-        }
-        &.this{
-            opacity:1;
-            transition: opacity 1s;
-        }
-        
-    }
-    .backimg:first-child{
-        width:160%;
+       &:first-child{
         position: absolute;
-        left:50%;
-        top:50%;
-        transform:translate(-50%,-50%);
-        z-index:999;
-        &.out{
-            opacity:0;
-            transition: opacity 0.2s;
-        }
-        &.this{
-            opacity:1;
-            transition:none;
-        }
+        width:auto;
+        height:100%;
+        left:0;
+        top:0;
+        transform:translate(-50%,0);
     }
+    }
+    
   }
