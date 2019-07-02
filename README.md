@@ -18,7 +18,8 @@ npm run start
 |----------|-------|
 | [React](https://facebook.github.io/react/) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
 | [Create React App](https://facebook.github.io/create-react-app/) | Create React apps with no build configuration. |
-| [ESLint](https://eslint.org/) | The pluggable linting utility for JavaScript and JSX |
+| [React Hot Loader](http://gaearon.github.io/react-hot-loader/) | Tweak React components in real time. |
+| [intersection-observer](https://github.com/w3c/IntersectionObserver/) | IntersectionObserver API in unsupporting browsers |
 
 ## Author
 
